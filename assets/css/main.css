@@ -529,6 +529,11 @@ a:focus {
   border-radius: 100%;
   margin-bottom: 10px;
 }
+.commLogo {
+  display: inline-block;
+  height:70px;
+  margin-bottom:13px
+}
 .icon-color1 {
   background-color: #e74c3c;
 }
